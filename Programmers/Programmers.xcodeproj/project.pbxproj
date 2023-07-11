@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		87CA9A582A5D69A100A1E8B2 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87CA9A572A5D69A100A1E8B2 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		87CA9A372A5D65DA00A1E8B2 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -25,7 +21,21 @@
 /* Begin PBXFileReference section */
 		87CA9A392A5D65DA00A1E8B2 /* Programmers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Programmers; sourceTree = BUILT_PRODUCTS_DIR; };
 		87CA9A3C2A5D65DA00A1E8B2 /* printingStars.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = printingStars.swift; sourceTree = "<group>"; };
-		87CA9A572A5D69A100A1E8B2 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		87CA9A572A5D69A100A1E8B2 /* numbersN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numbersN.swift; sourceTree = "<group>"; };
+		87CA9A592A5D6A8F00A1E8B2 /* hashardNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hashardNumber.swift; sourceTree = "<group>"; };
+		87CA9A5B2A5D907200A1E8B2 /* averageOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = averageOfArray.swift; sourceTree = "<group>"; };
+		87CA9A5D2A5D90D900A1E8B2 /* remainder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = remainder.swift; sourceTree = "<group>"; };
+		87CA9A5F2A5D933600A1E8B2 /* sumDigit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumDigit.swift; sourceTree = "<group>"; };
+		87CA9A612A5D938200A1E8B2 /* oddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oddEven.swift; sourceTree = "<group>"; };
+		87CA9A632A5D93E500A1E8B2 /* printAge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = printAge.swift; sourceTree = "<group>"; };
+		87CA9A652A5D93EF00A1E8B2 /* minusTwoNums.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = minusTwoNums.swift; sourceTree = "<group>"; };
+		87CA9A672A5D93FB00A1E8B2 /* twiceArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = twiceArray.swift; sourceTree = "<group>"; };
+		87CA9A692A5D940700A1E8B2 /* compareNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = compareNumbers.swift; sourceTree = "<group>"; };
+		87CA9A6B2A5D941100A1E8B2 /* protractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = protractor.swift; sourceTree = "<group>"; };
+		87CA9A6D2A5D941C00A1E8B2 /* sumEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sumEven.swift; sourceTree = "<group>"; };
+		87CA9A702A5D95C500A1E8B2 /* multipleOfn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = multipleOfn.swift; sourceTree = "<group>"; };
+		87CA9A722A5D95D400A1E8B2 /* commonMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commonMultiple.swift; sourceTree = "<group>"; };
+		87CA9A7C2A5D990400A1E8B2 /* oddEvenDifferentOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oddEvenDifferentOperation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +69,6 @@
 			isa = PBXGroup;
 			children = (
 				87CA9A562A5D696800A1E8B2 /* PS basic */,
-				87CA9A3C2A5D65DA00A1E8B2 /* printingStars.swift */,
-				87CA9A572A5D69A100A1E8B2 /* main.swift */,
 			);
 			path = Programmers;
 			sourceTree = "<group>";
@@ -68,6 +76,22 @@
 		87CA9A562A5D696800A1E8B2 /* PS basic */ = {
 			isa = PBXGroup;
 			children = (
+				87CA9A3C2A5D65DA00A1E8B2 /* printingStars.swift */,
+				87CA9A572A5D69A100A1E8B2 /* numbersN.swift */,
+				87CA9A592A5D6A8F00A1E8B2 /* hashardNumber.swift */,
+				87CA9A5B2A5D907200A1E8B2 /* averageOfArray.swift */,
+				87CA9A5D2A5D90D900A1E8B2 /* remainder.swift */,
+				87CA9A5F2A5D933600A1E8B2 /* sumDigit.swift */,
+				87CA9A612A5D938200A1E8B2 /* oddEven.swift */,
+				87CA9A632A5D93E500A1E8B2 /* printAge.swift */,
+				87CA9A652A5D93EF00A1E8B2 /* minusTwoNums.swift */,
+				87CA9A672A5D93FB00A1E8B2 /* twiceArray.swift */,
+				87CA9A692A5D940700A1E8B2 /* compareNumbers.swift */,
+				87CA9A6B2A5D941100A1E8B2 /* protractor.swift */,
+				87CA9A6D2A5D941C00A1E8B2 /* sumEven.swift */,
+				87CA9A702A5D95C500A1E8B2 /* multipleOfn.swift */,
+				87CA9A722A5D95D400A1E8B2 /* commonMultiple.swift */,
+				87CA9A7C2A5D990400A1E8B2 /* oddEvenDifferentOperation.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
@@ -131,7 +155,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				87CA9A582A5D69A100A1E8B2 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
