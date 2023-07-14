@@ -37,6 +37,7 @@
 		87CA9A722A5D95D400A1E8B2 /* commonMultiple.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = commonMultiple.swift; sourceTree = "<group>"; };
 		87CA9A7C2A5D990400A1E8B2 /* oddEvenDifferentOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oddEvenDifferentOperation.swift; sourceTree = "<group>"; };
 		87CA9A7E2A5D9FD900A1E8B2 /* connectedOddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = connectedOddEven.swift; sourceTree = "<group>"; };
+		87E574682A61D0AC00892959 /* conditionString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conditionString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 				87CA9A722A5D95D400A1E8B2 /* commonMultiple.swift */,
 				87CA9A7C2A5D990400A1E8B2 /* oddEvenDifferentOperation.swift */,
 				87CA9A7E2A5D9FD900A1E8B2 /* connectedOddEven.swift */,
+				87E574682A61D0AC00892959 /* conditionString.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
