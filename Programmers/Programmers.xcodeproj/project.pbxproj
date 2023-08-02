@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		877034FE2A70292B0050D29D /* median.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = median.swift; sourceTree = "<group>"; };
+		877DAC682A7AB9AE00AE3038 /* countUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countUp.swift; sourceTree = "<group>"; };
 		87A421A32A79635100AF6477 /* letterToGranny.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = letterToGranny.swift; sourceTree = "<group>"; };
 		87A421A52A79698D00AF6477 /* lengthOfArrayElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lengthOfArrayElement.swift; sourceTree = "<group>"; };
 		87BAA5082A68666700288BF3 /* controlCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = controlCode.swift; sourceTree = "<group>"; };
@@ -106,6 +107,7 @@
 				87CAA64F2A72C86C007EF017 /* changeLetters.swift */,
 				87A421A32A79635100AF6477 /* letterToGranny.swift */,
 				87A421A52A79698D00AF6477 /* lengthOfArrayElement.swift */,
+				877DAC682A7AB9AE00AE3038 /* countUp.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
