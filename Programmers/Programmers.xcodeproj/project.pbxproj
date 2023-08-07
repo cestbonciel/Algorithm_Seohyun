@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		870735112A7BB2150039D93A /* developFeature.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = developFeature.swift; sourceTree = "<group>"; };
 		870735132A7BC1550039D93A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		8738DF172A81410C002EE5DE /* maxValueOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxValueOfArray.swift; sourceTree = "<group>"; };
 		877034FE2A70292B0050D29D /* median.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = median.swift; sourceTree = "<group>"; };
 		877DAC682A7AB9AE00AE3038 /* countUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countUp.swift; sourceTree = "<group>"; };
 		87A421A32A79635100AF6477 /* letterToGranny.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = letterToGranny.swift; sourceTree = "<group>"; };
@@ -122,6 +123,7 @@
 				87A421A52A79698D00AF6477 /* lengthOfArrayElement.swift */,
 				877DAC682A7AB9AE00AE3038 /* countUp.swift */,
 				87A7FC3F2A7FEE7300BAB7E4 /* similarityArrays.swift */,
+				8738DF172A81410C002EE5DE /* maxValueOfArray.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
