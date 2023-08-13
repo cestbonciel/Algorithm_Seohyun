@@ -49,6 +49,8 @@
 		87CA9A7C2A5D990400A1E8B2 /* oddEvenDifferentOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oddEvenDifferentOperation.swift; sourceTree = "<group>"; };
 		87CA9A7E2A5D9FD900A1E8B2 /* connectedOddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = connectedOddEven.swift; sourceTree = "<group>"; };
 		87CAA64F2A72C86C007EF017 /* changeLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeLetters.swift; sourceTree = "<group>"; };
+		87DB25962A89225B00EE0CE4 /* prefixString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prefixString.swift; sourceTree = "<group>"; };
+		87DB25982A8931F300EE0CE4 /* stringToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stringToInt.swift; sourceTree = "<group>"; };
 		87E574682A61D0AC00892959 /* conditionString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conditionString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -128,6 +130,8 @@
 				8738DF172A81410C002EE5DE /* maxValueOfArray.swift */,
 				8738DF472A8293CF002EE5DE /* converterArray.swift */,
 				8738DFA62A869AE8002EE5DE /* hateEven.swift */,
+				87DB25962A89225B00EE0CE4 /* prefixString.swift */,
+				87DB25982A8931F300EE0CE4 /* stringToInt.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
