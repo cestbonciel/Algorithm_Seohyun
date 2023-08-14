@@ -51,6 +51,7 @@
 		87CAA64F2A72C86C007EF017 /* changeLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeLetters.swift; sourceTree = "<group>"; };
 		87DB25962A89225B00EE0CE4 /* prefixString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prefixString.swift; sourceTree = "<group>"; };
 		87DB25982A8931F300EE0CE4 /* stringToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stringToInt.swift; sourceTree = "<group>"; };
+		87DB259A2A893CF700EE0CE4 /* lengthOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lengthOperator.swift; sourceTree = "<group>"; };
 		87E574682A61D0AC00892959 /* conditionString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conditionString.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -132,6 +133,7 @@
 				8738DFA62A869AE8002EE5DE /* hateEven.swift */,
 				87DB25962A89225B00EE0CE4 /* prefixString.swift */,
 				87DB25982A8931F300EE0CE4 /* stringToInt.swift */,
+				87DB259A2A893CF700EE0CE4 /* lengthOperator.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
