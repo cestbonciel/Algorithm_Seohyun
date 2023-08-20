@@ -22,3 +22,4 @@ func solution(_ num_list: [Int]) -> Int {
 }
 
 print(solution([2, 3, 4, 5]))
+
