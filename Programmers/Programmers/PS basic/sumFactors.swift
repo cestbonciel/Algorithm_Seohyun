@@ -27,3 +27,5 @@ func solution2(_ n: Int) -> Int {
 }
 
 print(solution2(24))
+
+
