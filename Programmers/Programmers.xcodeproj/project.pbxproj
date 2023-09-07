@@ -35,7 +35,7 @@
 		8738DFA62A869AE8002EE5DE /* hateEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hateEven.swift; sourceTree = "<group>"; };
 		877034FE2A70292B0050D29D /* median.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = median.swift; sourceTree = "<group>"; };
 		877DAC682A7AB9AE00AE3038 /* countUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countUp.swift; sourceTree = "<group>"; };
-		87A16D2D2AAA34390010A0EB /* lengthOfOddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lengthOfOddEven.swift; sourceTree = "<group>"; };
+		87A16D2D2AAA34390010A0EB /* lengOfOddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lengOfOddEven.swift; sourceTree = "<group>"; };
 		87A421A32A79635100AF6477 /* letterToGranny.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = letterToGranny.swift; sourceTree = "<group>"; };
 		87A421A52A79698D00AF6477 /* lengthOfArrayElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lengthOfArrayElement.swift; sourceTree = "<group>"; };
 		87A7FC3F2A7FEE7300BAB7E4 /* similarityArrays.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = similarityArrays.swift; sourceTree = "<group>"; };
@@ -168,7 +168,7 @@
 				87CA03212A9255E400F112D9 /* sumFactors.swift */,
 				87CA03232A9271F000F112D9 /* fromElement_n.swift */,
 				87C04B8C2A96665300F93C11 /* testArray.swift */,
-				87A16D2D2AAA34390010A0EB /* lengthOfOddEven.swift */,
+				87A16D2D2AAA34390010A0EB /* lengOfOddEven.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
