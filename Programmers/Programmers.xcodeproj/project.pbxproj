@@ -69,6 +69,8 @@
 		87CA9A7C2A5D990400A1E8B2 /* oddEvenDifferentOperation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = oddEvenDifferentOperation.swift; sourceTree = "<group>"; };
 		87CA9A7E2A5D9FD900A1E8B2 /* connectedOddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = connectedOddEven.swift; sourceTree = "<group>"; };
 		87CAA64F2A72C86C007EF017 /* changeLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = changeLetters.swift; sourceTree = "<group>"; };
+		87D303CE2AF3670E00B92511 /* theTowerOfHanoi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = theTowerOfHanoi.swift; sourceTree = "<group>"; };
+		87D303D02AF3AE6000B92511 /* ps_hanoi231102.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = ps_hanoi231102.md; sourceTree = "<group>"; };
 		87DB25962A89225B00EE0CE4 /* prefixString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = prefixString.swift; sourceTree = "<group>"; };
 		87DB25982A8931F300EE0CE4 /* stringToInt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = stringToInt.swift; sourceTree = "<group>"; };
 		87DB259A2A893CF700EE0CE4 /* lengthOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lengthOperator.swift; sourceTree = "<group>"; };
@@ -88,7 +90,7 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		870735102A7BB1E40039D93A /* Kit for High score */ = {
+		870735102A7BB1E40039D93A /* Kit_for_HighScore */ = {
 			isa = PBXGroup;
 			children = (
 				870735112A7BB2150039D93A /* developFeature.swift */,
@@ -101,8 +103,10 @@
 				87CA031B2A92153500F112D9 /* Stack.swift */,
 				87CA031D2A92189200F112D9 /* 혼자놀기의달인.swift */,
 				87FBA7342A9DC6B4009B4086 /* mouigosa.swift */,
+				87D303CE2AF3670E00B92511 /* theTowerOfHanoi.swift */,
+				87D303D02AF3AE6000B92511 /* ps_hanoi231102.md */,
 			);
-			path = "Kit for High score";
+			path = Kit_for_HighScore;
 			sourceTree = "<group>";
 		};
 		87CA9A302A5D65D900A1E8B2 = {
@@ -124,7 +128,7 @@
 		87CA9A3B2A5D65DA00A1E8B2 /* Programmers */ = {
 			isa = PBXGroup;
 			children = (
-				870735102A7BB1E40039D93A /* Kit for High score */,
+				870735102A7BB1E40039D93A /* Kit_for_HighScore */,
 				87CA9A562A5D696800A1E8B2 /* PS basic */,
 			);
 			path = Programmers;
