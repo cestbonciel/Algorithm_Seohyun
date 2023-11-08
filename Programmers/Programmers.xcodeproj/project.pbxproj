@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		876813E42AFBD87200D971BB /* ElementStepN.swift in Sources */ = {isa = PBXBuildFile; fileRef = 876813E32AFBD87200D971BB /* ElementStepN.swift */; };
 		87CA03162A9214DD00F112D9 /* Vertex.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87CA03152A9214DD00F112D9 /* Vertex.swift */; };
 		87CA03182A92150D00F112D9 /* AdjacencyList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87CA03172A92150D00F112D9 /* AdjacencyList.swift */; };
 		87CA031A2A92152400F112D9 /* Edge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87CA03192A92152400F112D9 /* Edge.swift */; };
@@ -33,6 +34,7 @@
 		8738DF172A81410C002EE5DE /* maxValueOfArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = maxValueOfArray.swift; sourceTree = "<group>"; };
 		8738DF472A8293CF002EE5DE /* converterArray.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = converterArray.swift; sourceTree = "<group>"; };
 		8738DFA62A869AE8002EE5DE /* hateEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hateEven.swift; sourceTree = "<group>"; };
+		876813E32AFBD87200D971BB /* ElementStepN.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ElementStepN.swift; sourceTree = "<group>"; };
 		877034FE2A70292B0050D29D /* median.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = median.swift; sourceTree = "<group>"; };
 		877DAC682A7AB9AE00AE3038 /* countUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countUp.swift; sourceTree = "<group>"; };
 		87A16D2D2AAA34390010A0EB /* lengOfOddEven.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lengOfOddEven.swift; sourceTree = "<group>"; };
@@ -173,6 +175,7 @@
 				87CA03232A9271F000F112D9 /* fromElement_n.swift */,
 				87C04B8C2A96665300F93C11 /* testArray.swift */,
 				87A16D2D2AAA34390010A0EB /* lengOfOddEven.swift */,
+				876813E32AFBD87200D971BB /* ElementStepN.swift */,
 			);
 			path = "PS basic";
 			sourceTree = "<group>";
@@ -237,6 +240,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				87CA03202A921A2600F112D9 /* Graphable.swift in Sources */,
+				876813E42AFBD87200D971BB /* ElementStepN.swift in Sources */,
 				87CA03182A92150D00F112D9 /* AdjacencyList.swift in Sources */,
 				87CA031E2A92189200F112D9 /* 혼자놀기의달인.swift in Sources */,
 				87CA031C2A92153500F112D9 /* Stack.swift in Sources */,
